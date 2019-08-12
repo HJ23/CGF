@@ -15,7 +15,7 @@
 
 # Result 1
 ![Result1:](https://github.com/HJ23/CGF/blob/master/results/results.gif)
-# -------------------------------------------------------------------------------------------------------------
+
 
 # Result 2
 ![Result2](https://github.com/HJ23/CGF/blob/master/results/results2.gif)
