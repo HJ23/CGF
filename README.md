@@ -1,4 +1,6 @@
 # Computer Generated Faces
+# These timelapse shows how computer generates faces 
+
 
 ### it is possible to use it with pretrained data or you can train it from scratch
 
